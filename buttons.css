@@ -1,0 +1,80 @@
+*{
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+hr{
+  background-color: cyan;
+  border: 10px;
+  height:5px ;
+}
+a:link{
+  color: white;
+  background-color:rgb(255, 216, 20);
+  text-decoration: none;
+}
+.uber{
+  background-color: black;
+  color: whitesmoke;
+  border:2px;
+  height:50px;
+  width: 100px;
+  cursor: pointer;
+}
+.amazon{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: 2px;
+  border-radius: 20px;
+  height: 40px;
+  width: 150px;
+  cursor: grab;
+}
+.Github{
+  background-color: rgb(46, 164, 79);
+  color: antiquewhite;
+  border: 1px;
+  border-radius: 8px;
+  height: 48px;
+  width: 92px;
+  font-weight: bolder;
+  cursor:move;
+}
+.bootstrap{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+  height: 52px;
+  width: 120px;
+  font-weight: 700;
+  margin-right: 12px;
+  cursor: help;
+}
+.download{
+  background-color: rgb(108, 117, 125);
+  color: black;
+  border: 2px;
+  border-radius: 2px;
+  height: 52px;
+  width: 120px;
+  cursor: ew-resize;
+}
+.linkedln{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: 2px;
+  border-radius: 26px;
+  height: 54px;
+  width: 280px;
+  font-weight: 900;
+  cursor: pointer;
+}
+.save{
+  color: rgb(46, 113, 237);
+  border: 2px;
+  border-radius:28px;
+  height:57px;
+  width: 120px;
+  
+}
